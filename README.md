@@ -1,18 +1,45 @@
+# <Project Name>
 
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
+<Project Description>
 
-#  Destini
+## Getting Started
 
-## Our Goal
+## Software requirements
 
-The goal of this tutorial is to get you comfortable with thinking about the state of your app and updating the Views accordingly. In addition, you will be using logic to control the flow of the program. This is a challenge where you’ll solidify your understanding of IF-ELSE statements and comparison operators.
+- Xcode 11.3 or higher
 
-## What you will create
+- iOS 13.2 or higher
 
-In this app, you will be creating a “choose your own adventure” game similar to the App Store hit “Life Line” app. The app will tell a story depending on what the user chooses and can be fleshed out and modified to provide an engaging story-telling experience
+- Swift 5.1 or higher
 
+## Navigate to the iOS application
 
+```
+$ cd /path/to/ios/application
+```
 
->This is a companion project to The App Brewery's Complete App Developement Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
+## Starting the application
 
-![End Banner](Documentation/readme-end-banner.png)
+```zsh
+open *.xcodeproj
+```
+
+Followed by
+
+```text
+Command + R
+```
+
+## Support
+
+Bug reports and feature requests can be filed with the rest for the Ruby on Rails project here:
+
+- [File Bug Reports and Features](https://github.com/<user-name>/<project-repo>/issues)
+
+## License
+
+<Project Name> is released under the [MIT license](https://mit-license.org).
+
+## Copyright
+
+copyright:: (c) Copyright 2019 Conrad Taylor. All Rights Reserved.
